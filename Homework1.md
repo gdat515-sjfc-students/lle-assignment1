@@ -1,4 +1,5 @@
-# Original Graph
+Original Graph
+==============
 
 This graph is from *Genetic Structure of the Purebred Domestic Dog*
 (sciencemag.org, 2004). This article looks at genetic relationships
@@ -24,7 +25,8 @@ meaning to the article.
 
 ![Alt text](/Users/le/Desktop/GDAT515/HW/images/dog_graphs.png)
 
-# Better Graph
+Better Graph
+============
 
 In February 2012 the National Geographic included an article that is a
 more approachable version of the original 2004 journal artical. They
