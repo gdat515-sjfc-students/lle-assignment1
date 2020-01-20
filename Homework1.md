@@ -1,5 +1,4 @@
-Original Graph
-==============
+# Bad Graph
 
 This graph is from *Genetic Structure of the Purebred Domestic Dog*
 (sciencemag.org, 2004). This article looks at genetic relationships
@@ -23,10 +22,9 @@ bars, the size of the font, and the small vertical words make it
 difficult to digest. And lastly, I’m not sure that graph B offers any
 meaning to the article.
 
-![Alt text](/Users/le/Desktop/GDAT515/HW/images/dog_graphs.png)
+![Original Graph](dog_graphs.png)
 
-Better Graph
-============
+# Good Graph
 
 In February 2012 the National Geographic included an article that is a
 more approachable version of the original 2004 journal artical. They
@@ -47,5 +45,4 @@ their cluster. Even though this graph has less information than the
 original publication, I was able to gain a lot more knowledge from this
 graph wihout reading the text.
 
-![National Geographic
-2017](/Users/le/Desktop/GDAT515/HW/images/dog_graph.png)2
+![Improved Graph](dog_graph.png)
