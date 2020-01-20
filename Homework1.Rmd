@@ -2,7 +2,10 @@
 title: "Homework1"
 author: "Laura Le"
 date: "1/19/2020"
-output: html_document
+output:
+  md_document:
+    variant: gfm
+  
 ---
 
 ```{r setup, include=FALSE}
