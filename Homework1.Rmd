@@ -4,8 +4,7 @@ author: "Laura Le"
 date: "1/19/2020"
 output:
   md_document:
-    variant: gfm
-  
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
